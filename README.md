@@ -1,5 +1,5 @@
 # Agriculture-Precision-Rainfall-Prediction-and-Crop-Recommendation-
-Demonstrates web application of machine learning models in agriculture through integration of rainfall prediction and crop recommendation systems
+Demonstrates web application using machine learning models in agriculture through integration of rainfall prediction and crop recommendation system
 Here’s a **README.md** file tailored for a **Rainfall Prediction and Crop Recommendation Website using Machine Learning**, designed to be run on **VS Code**.
 
 ---
