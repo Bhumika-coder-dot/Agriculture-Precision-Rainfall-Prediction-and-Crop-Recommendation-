@@ -134,8 +134,7 @@ http://127.0.0.1:5000
 ---
 
 ## Future Improvements
-- Integrate **real-time weather APIs** for up-to-date predictions.
 - Add **more crop recommendations** based on market trends and soil conditions.
-- Deploy the application on **cloud platforms** like AWS or Heroku.
+- IOT Integration
 
 ---
