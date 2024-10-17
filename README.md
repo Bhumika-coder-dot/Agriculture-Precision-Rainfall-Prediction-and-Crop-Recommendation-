@@ -139,15 +139,3 @@ http://127.0.0.1:5000
 - Deploy the application on **cloud platforms** like AWS or Heroku.
 
 ---
-
-## License
-This project is licensed under the **MIT License**.
-
----
-
-## Contact
-For any questions or issues, please contact **[Your Name]** at [your.email@example.com].
-
----
-
-This `README.md` should cover all essential aspects for setting up, running, and understanding the project. If you need further modifications or additions, let me know!
