@@ -19,7 +19,7 @@ Here’s a **README.md** file tailored for a **Rainfall Prediction and Crop Reco
 ### 1. Software Requirements:
 - **Visual Studio Code**: [Download VS Code](https://code.visualstudio.com/)
 - **Python 3.x**: [Download Python](https://www.python.org/downloads/)
-- **Git** (optional): For cloning the repository.
+
   
 ### 2. Python Packages:
 Install the following packages:
